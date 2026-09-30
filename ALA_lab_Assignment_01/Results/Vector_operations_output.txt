@@ -1,0 +1,20 @@
+
+ zero vector:  [0, 0, 0, 0, 0]
+
+ unit vector:  [1, 1, 1]
+
+ Creating a new vector:  [0, 1, 1.03]
+
+sclar and vector mulplication:  [0, 5, 5.15]
+
+scalar and vector addition:  [0, 5, 5.15]
+
+ addition of 2 vectors:  [0, 6, 6.18]
+
+ subtraction on two vectors:  [0, -4, -4.12]
+
+ Negation of a vector  [0, -6, -6.18]
+
+ Uniform random vector: [0.9888393217348315, 0.04556652055153343, 0.982696268181575, 0.3511804393582474, 0.9518413582310838]
+
+ Norm of Vector v1: 1.4355835050598764
